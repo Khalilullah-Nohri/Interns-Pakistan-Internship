@@ -1,0 +1,61 @@
+.student{
+    margin-left: 18%;
+
+}
+
+button.addScorebtn{
+border: none;
+border-radius: 100px;
+background-color: Blue;
+color: white;
+width: 20px;
+height: 20px;
+line-height: 16px;
+/* text-align: center; */
+position: relative;
+/* top: 30x; */
+cursor: pointer;
+left: 7px;
+margin: 2px;
+}
+
+
+h1.leadersboardHeading {
+    /* vertical-align: revert; */
+    margin-left: 40%;
+}
+
+.left {
+    display: inline-block;
+    width: 60%;
+    vertical-align: middle;
+}
+
+
+
+.right {
+    width: 20%;
+    display: inline-block;
+    text-align: right;
+}
+
+.score{
+    color: green;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+span {
+    border: none;
+    border-radius: 6px;
+    background: green;
+    /* text-align: center; */
+    width: 80px;
+    position: relative;
+    left: 7px;
+    padding: 2px;
+    font-weight: bold;
+}
+p.universityName {
+    margin-top: -15px;
+}
